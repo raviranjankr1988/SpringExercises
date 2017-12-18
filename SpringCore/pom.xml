@@ -5,13 +5,21 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>SpringExercises</artifactId>
+    <artifactId>SpringCore</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>SpringCore</module>
+        <module>Exercise1</module>
+        <module>Exercise2</module>
+        <module>Exercise3</module>
+        <module>Exercise4</module>
+        <module>Exercise5</module>
+        <module>Exercise6</module>
+        <module>Exercise7</module>
+        <module>Exercise8</module>
+        <module>Exercise9</module>
     </modules>
-    
+
     <packaging>pom</packaging>
 
 
