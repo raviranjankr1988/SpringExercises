@@ -6,7 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringExercises" />
+        <module name="Exercise1" />
+        <module name="Exercise2" />
+        <module name="Exercise3" />
+        <module name="Exercise4" />
+        <module name="Exercise5" />
+        <module name="Exercise6" />
+        <module name="Exercise7" />
+        <module name="Exercise8" />
+        <module name="Exercise9" />
         <module name="SpringPro (1)" />
         <module name="SpringPro (2)" />
         <module name="SpringPro (3)" />
@@ -18,6 +26,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Exercise1" target="1.5" />
+      <module name="Exercise2" target="1.5" />
+      <module name="Exercise3" target="1.5" />
+      <module name="Exercise4" target="1.5" />
+      <module name="Exercise5" target="1.5" />
+      <module name="Exercise6" target="1.5" />
+      <module name="Exercise7" target="1.5" />
+      <module name="Exercise8" target="1.5" />
+      <module name="Exercise9" target="1.5" />
       <module name="SpringExercises" target="1.5" />
       <module name="SpringPro (1)" target="1.5" />
       <module name="SpringPro (2)" target="1.5" />

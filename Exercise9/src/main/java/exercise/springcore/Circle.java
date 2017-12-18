@@ -1,12 +1,12 @@
+package exercise.springcore;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.beans.factory.annotation.Required;
+import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 import javax.annotation.Resource;
 
+@Component //or Repository,service,controller
 public class Circle implements Shape {
 
     private Point centre;
@@ -15,7 +15,7 @@ public class Circle implements Shape {
         return centre;
     }
 
-    @Resource(name = "point2")
+    @Resource
     public void setCentre(Point centre) {
         this.centre = centre;
     }
