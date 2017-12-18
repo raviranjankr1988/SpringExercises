@@ -1,0 +1,7 @@
+Point.class
+Triangle.class
+Circle.class
+DrawingApp.class
+Shape.class
+DisplayNameBeanPostProcessor.class
+MyBeanFactoryPostProcessor.class

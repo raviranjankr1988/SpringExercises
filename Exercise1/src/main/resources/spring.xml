@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:c="http://www.springframework.org/schema/c"
+       xmlns:p="http://www.springframework.org/schema/p" xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.1.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-4.1.xsd">
+
+    <bean id="triangle" class="Triangle" autowire="byName" scope="prototype">
+        <!--<property name="type" value="Equilateral"></property>-->
+        <!--<constructor-arg value="Equilateral"></constructor-arg>-->
+        <!--<constructor-arg type="java.lang.String" value="20"></constructor-arg>-->
+        <!--<constructor-arg index="0" value="Equilateral"></constructor-arg>-->
+        <!--<constructor-arg index="1" value="20"></constructor-arg>-->
+        <!--<property name="pointA" ref="ZeroPoint"></property>-->
+        <!--<property name="pointB">-->
+            <!--<bean class="Point">-->
+                <!--<property name="x" value="-20"></property>-->
+                <!--<property name="y" value="0"></property>-->
+            <!--</bean>-->
+        <!--</property>-->
+        <!--<property name="pointC">-->
+            <!--<bean class="Point">-->
+                <!--<property name="x" value="20"></property>-->
+                <!--<property name="y" value="0"></property>-->
+            <!--</bean>-->
+        <!--</property>-->
+
+    </bean>
+
+    <!--<bean id="ZeroPoint" class="Point">-->
+        <!--<property name="x" value="0"></property>-->
+        <!--<property name="y" value="0"></property>-->
+    <!--</bean>-->
+
+    <!--<bean id="point2" class="Point">-->
+        <!--<property name="x" value="-20"></property>-->
+        <!--<property name="y" value="0"></property>-->
+    <!--</bean>-->
+
+    <!--<bean id="point3" class="Point">-->
+        <!--<property name="x" value="20"></property>-->
+        <!--<property name="y" value="0"></property>-->
+    <!--</bean>-->
+
+    <bean id="pointA" class="Point">
+        <property name="x" value="0"></property>
+        <property name="y" value="0"></property>
+    </bean>
+
+    <bean id="pointB" class="Point">
+        <property name="x" value="-20"></property>
+        <property name="y" value="0"></property>
+    </bean>
+
+    <bean id="pointC" class="Point">
+        <property name="x" value="20"></property>
+        <property name="y" value="0"></property>
+    </bean>
+
+    <alias name="triangle" alias="triangle-alias" />
+
+</beans>

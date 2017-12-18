@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringExercises.iml" filepath="$PROJECT_DIR$/.idea/SpringExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1/SpringPro (1).iml" filepath="$PROJECT_DIR$/Exercise1/SpringPro (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise2/SpringPro (2).iml" filepath="$PROJECT_DIR$/Exercise2/SpringPro (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise3/SpringPro (3).iml" filepath="$PROJECT_DIR$/Exercise3/SpringPro (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise4/SpringPro (4).iml" filepath="$PROJECT_DIR$/Exercise4/SpringPro (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise5/SpringPro (5).iml" filepath="$PROJECT_DIR$/Exercise5/SpringPro (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise6/SpringPro (6).iml" filepath="$PROJECT_DIR$/Exercise6/SpringPro (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise7/SpringPro (7).iml" filepath="$PROJECT_DIR$/Exercise7/SpringPro (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise8/SpringPro (8).iml" filepath="$PROJECT_DIR$/Exercise8/SpringPro (8).iml" />
+    </modules>
+  </component>
+</project>
