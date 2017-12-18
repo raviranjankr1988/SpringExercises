@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a7df5bc-fe0a-4d65-9c2a-b92489c368b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise1/Exercise1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise2/Exercise2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise3/Exercise3.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise4/Exercise4.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise5/Exercise5.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise6/Exercise6.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise7/Exercise7.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise8/Exercise8.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise9/Exercise9.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise9/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise8/src/main/java/Circle.java" afterPath="$PROJECT_DIR$/Exercise8/src/main/java/Circle.java" />
-    </list>
+    <list default="true" id="1a7df5bc-fe0a-4d65-9c2a-b92489c368b3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/Exercise3/target/" />
     <ignored path="$PROJECT_DIR$/Exercise5/target/" />
     <ignored path="$PROJECT_DIR$/Exercise2/target/" />
