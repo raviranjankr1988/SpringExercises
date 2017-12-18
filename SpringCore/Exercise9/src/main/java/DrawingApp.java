@@ -17,6 +17,7 @@ public class DrawingApp {
         Shape shape2 = (Shape) factory.getBean("circle");
 //        shape1.draw();
         shape2.draw();
+        System.out.println(factory.getMessage("greeting",null,"Default Greetings",null));
 
 
     }
