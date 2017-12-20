@@ -8,10 +8,11 @@
     <artifactId>SpringAOP</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <!--<modules>-->
-        <!--<module>Exercise1</module>-->
-       <!---->
-    <!--</modules>-->
+    <modules>
+        <module>AOPEx1</module>
+        <module>PointcutsWildcardExpressions</module>
+
+    </modules>
 
     <packaging>pom</packaging>
 
