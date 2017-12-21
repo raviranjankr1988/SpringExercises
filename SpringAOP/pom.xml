@@ -11,7 +11,7 @@
     <modules>
         <module>AOPEx1</module>
         <module>PointcutsWildcardExpressions</module>
-
+        <module>JoinPointsAdviceArguments</module>
     </modules>
 
     <packaging>pom</packaging>
