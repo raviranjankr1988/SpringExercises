@@ -12,6 +12,7 @@
         <module>AOPEx1</module>
         <module>PointcutsWildcardExpressions</module>
         <module>JoinPointsAdviceArguments</module>
+        <module>AOPXMLConfiguration</module>
     </modules>
 
     <packaging>pom</packaging>
