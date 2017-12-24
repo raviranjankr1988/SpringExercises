@@ -11,6 +11,7 @@
     <modules>
         <module>SpringCore</module>
         <module>SpringJdbc</module>
+        <module>SpringBootApp</module>
     </modules>
     
     <packaging>pom</packaging>
