@@ -10,8 +10,10 @@
 
     <modules>
         <module>SpringCore</module>
+        <module>SpringAOP</module>
         <module>SpringJdbc</module>
         <module>SpringBootApp</module>
+        <module>SpringBootCourseAPI</module>
     </modules>
     
     <packaging>pom</packaging>
