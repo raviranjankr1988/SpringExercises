@@ -14,6 +14,7 @@
         <module>SpringJdbc</module>
         <module>SpringBootApp</module>
         <module>SpringBootCourseAPI</module>
+        <module>SpringBootStudentAPI</module>
     </modules>
     
     <packaging>pom</packaging>
